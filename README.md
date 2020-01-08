@@ -39,6 +39,7 @@ python3 accuracy_num_estimator_visualization.py
 ```
 python3 error_case_visualization.py
 ```
+![error](figure/error.png)
 
 
 

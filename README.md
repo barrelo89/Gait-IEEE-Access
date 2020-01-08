@@ -25,9 +25,9 @@ python3 data_preocessing.py
 ```
 python3 classfication.py
 ```
-3. Data Filtering Visualization
+3. Data Visualization
 ```
-python3 data_filtering_visualization.py
+python3 data_visualize.py
 ```
 4. Visualization for Accuracy VS Number of Estimators
 ```

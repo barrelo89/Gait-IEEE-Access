@@ -33,7 +33,8 @@ python3 data_visualize.py
 ```
 python3 accuracy_num_estimator_visualization.py
 ```
-![Image description](figure/time2accuracy_total.png)
+![Accuracy VS Num. Estimator in RFC](figure/time2accuracy_total.png)
+
 5. Error Case Visualization
 ```
 python3 error_case_visualization.py
